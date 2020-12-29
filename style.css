@@ -1,0 +1,40 @@
+body {
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, rgba(42, 42, 114, 0.2) 0%, rgba(0, 159, 253, 0.5) 74%), url('hero_1.jpg');
+    height: 100vh;
+}
+
+.content {
+    background-color: #13232f;
+    width: 400px;
+    min-height: 500px;
+    padding: 40px;
+    padding-top: 0;
+    max-width: 600px;
+    margin: 180px auto 0 auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+h1 {
+    color: #1ab188;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    transform: translateY(20px);
+    -webkit-transform: translateY(20px);
+    -moz-transform: translateY(20px);
+    -ms-transform: translateY(20px);
+    -o-transform: translateY(20px);
+}
+
+.home {
+    font-size: 24px;
+    color: #CCC;
+    text-align: center;
+    line-height: 1.8;
+}
